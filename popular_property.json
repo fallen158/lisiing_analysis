@@ -1,0 +1,365 @@
+[
+  {
+    "title": "重庆融创文旅城",
+    "area": "沙坪坝",
+    "address": "[沙坪坝]西永微电园地铁站片区",
+    "price": "均价11200元/平方米",
+    "comment": "318条评论",
+    "tags": "联排 普通住宅品牌地产",
+    "roomType": "1居/2居/3居/4居/5居－82~211平米",
+    "url": "https://wandachengcq.fang.com/"
+  },
+  {
+    "title": "万科金开悦府",
+    "area": "渝北",
+    "address": "[渝北]两江新区金兴大道园博园正门旁",
+    "price": "低价160万元/套",
+    "comment": "508条评论",
+    "tags": "普通住宅 花园洋房品牌地产",
+    "roomType": "3居/4居－82~121平米",
+    "url": "https://wankejinkaiyuefu.fang.com/"
+  },
+  {
+    "title": "万科重庆天地",
+    "area": "渝中",
+    "address": "[渝中]瑞天路158号(天地湖旁)",
+    "price": "低价210万元/套",
+    "comment": "198条评论",
+    "tags": "普通住宅品牌地产国际化社区",
+    "roomType": "3居/4居－95~113平米",
+    "url": "https://chongqingtiandi.fang.com/"
+  },
+  {
+    "title": "万科金域蓝湾",
+    "area": "渝北",
+    "address": "[渝北]金果大道66号",
+    "price": "价格待定",
+    "comment": "340条评论",
+    "tags": "普通住宅 花园洋房品牌地产",
+    "roomType": "3居/4居－94~112平米",
+    "url": "https://jinyulanwanxiwangwk023.fang.com/"
+  },
+  {
+    "title": "万科金域华庭",
+    "area": "沙坪坝",
+    "address": "[沙坪坝]金沙正街国盛大桥旁",
+    "price": "均价14000元/平方米",
+    "comment": "256条评论",
+    "tags": "普通住宅品牌地产现房",
+    "roomType": "3居/4居－101~112平米",
+    "url": "https://jinyuhuatingwk023.fang.com/"
+  },
+  {
+    "title": "保利堂悦",
+    "area": "南岸",
+    "address": "[南岸]刘家坪轻轨站旁",
+    "price": "均价14500元/平方米",
+    "comment": "217条评论",
+    "tags": "普通住宅 叠拼品牌地产",
+    "roomType": "1居/2居/3居/4居/5居－111~151平米",
+    "url": "https://tangyuebl023.fang.com/"
+  },
+  {
+    "title": "华融现代城",
+    "area": "江北",
+    "address": "[江北]港兴路11号(紧邻港城园区管委会,五里坪校区南侧)",
+    "price": "价格待定",
+    "comment": "107条评论",
+    "tags": "普通住宅小户型经济住宅",
+    "roomType": "暂无资料",
+    "url": "https://xiandaichenghr023.fang.com/"
+  },
+  {
+    "title": "洺悦城",
+    "area": "巴南",
+    "address": "[巴南]轻轨3号线鱼胡路站",
+    "price": "低价9000元/平方米",
+    "comment": "84条评论",
+    "tags": "普通住宅品牌地产景观居所",
+    "roomType": "3居/4居－111~142平米",
+    "url": "https://mingyuecheng.fang.com/"
+  },
+  {
+    "title": "万科御澜道",
+    "area": "江北",
+    "address": "[江北]新溉路与北滨二路交汇处(鲁能巴蜀中学下行300米)",
+    "price": "低价22000元/平方米",
+    "comment": "306条评论",
+    "tags": "普通住宅品牌地产国际化社区",
+    "roomType": "4居－129~155平米",
+    "url": "https://yulandaowk.fang.com/"
+  },
+  {
+    "title": "龙湖春江天镜",
+    "area": "巴南",
+    "address": "[巴南]巴滨路",
+    "price": "低价13500元/平方米",
+    "comment": "87条评论",
+    "tags": "普通住宅 大平层品牌地产",
+    "roomType": "3居/4居－82~136平米",
+    "url": "https://chunjiangtianjinglh.fang.com/"
+  },
+  {
+    "title": "保利观塘",
+    "area": "南岸",
+    "address": "[南岸]渝南分流道(美堤雅城车站前行300米)",
+    "price": "价格待定",
+    "comment": "863条评论",
+    "tags": "普通住宅地铁沿线配套商品房",
+    "roomType": "3居－73~82平米",
+    "url": "https://baoliguantang.fang.com/"
+  },
+  {
+    "title": "万科翡翠都会",
+    "area": "渝中",
+    "address": "[渝中]黄花园(巴蜀本部正对面)",
+    "price": "低价280万元/套",
+    "comment": "218条评论",
+    "tags": "普通住宅 大平层品牌地产",
+    "roomType": "3居－111~159平米",
+    "url": "https://feicuiduhuiwk.fang.com/"
+  }
+][
+  ({
+    "title": "重庆融创文旅城",
+    "area": "沙坪坝",
+    "address": "[沙坪坝]西永微电园地铁站片区",
+    "price": "均价11200元/平方米",
+    "comment": "318条评论",
+    "tags": "联排 普通住宅品牌地产",
+    "roomType": "1居/2居/3居/4居/5居－82~211平米",
+    "url": "https://wandachengcq.fang.com/"
+  },
+  {
+    "title": "万科金开悦府",
+    "area": "渝北",
+    "address": "[渝北]两江新区金兴大道园博园正门旁",
+    "price": "低价160万元/套",
+    "comment": "508条评论",
+    "tags": "普通住宅 花园洋房品牌地产",
+    "roomType": "3居/4居－82~121平米",
+    "url": "https://wankejinkaiyuefu.fang.com/"
+  },
+  {
+    "title": "万科重庆天地",
+    "area": "渝中",
+    "address": "[渝中]瑞天路158号(天地湖旁)",
+    "price": "低价210万元/套",
+    "comment": "198条评论",
+    "tags": "普通住宅品牌地产国际化社区",
+    "roomType": "3居/4居－95~113平米",
+    "url": "https://chongqingtiandi.fang.com/"
+  },
+  {
+    "title": "万科金域蓝湾",
+    "area": "渝北",
+    "address": "[渝北]金果大道66号",
+    "price": "价格待定",
+    "comment": "340条评论",
+    "tags": "普通住宅 花园洋房品牌地产",
+    "roomType": "3居/4居－94~112平米",
+    "url": "https://jinyulanwanxiwangwk023.fang.com/"
+  },
+  {
+    "title": "万科金域华庭",
+    "area": "沙坪坝",
+    "address": "[沙坪坝]金沙正街国盛大桥旁",
+    "price": "均价14000元/平方米",
+    "comment": "256条评论",
+    "tags": "普通住宅品牌地产现房",
+    "roomType": "3居/4居－101~112平米",
+    "url": "https://jinyuhuatingwk023.fang.com/"
+  },
+  {
+    "title": "保利堂悦",
+    "area": "南岸",
+    "address": "[南岸]刘家坪轻轨站旁",
+    "price": "均价14500元/平方米",
+    "comment": "217条评论",
+    "tags": "普通住宅 叠拼品牌地产",
+    "roomType": "1居/2居/3居/4居/5居－111~151平米",
+    "url": "https://tangyuebl023.fang.com/"
+  },
+  {
+    "title": "华融现代城",
+    "area": "江北",
+    "address": "[江北]港兴路11号(紧邻港城园区管委会,五里坪校区南侧)",
+    "price": "价格待定",
+    "comment": "107条评论",
+    "tags": "普通住宅小户型经济住宅",
+    "roomType": "暂无资料",
+    "url": "https://xiandaichenghr023.fang.com/"
+  },
+  {
+    "title": "洺悦城",
+    "area": "巴南",
+    "address": "[巴南]轻轨3号线鱼胡路站",
+    "price": "低价9000元/平方米",
+    "comment": "84条评论",
+    "tags": "普通住宅品牌地产景观居所",
+    "roomType": "3居/4居－111~142平米",
+    "url": "https://mingyuecheng.fang.com/"
+  },
+  {
+    "title": "万科御澜道",
+    "area": "江北",
+    "address": "[江北]新溉路与北滨二路交汇处(鲁能巴蜀中学下行300米)",
+    "price": "低价22000元/平方米",
+    "comment": "306条评论",
+    "tags": "普通住宅品牌地产国际化社区",
+    "roomType": "4居－129~155平米",
+    "url": "https://yulandaowk.fang.com/"
+  },
+  {
+    "title": "龙湖春江天镜",
+    "area": "巴南",
+    "address": "[巴南]巴滨路",
+    "price": "低价13500元/平方米",
+    "comment": "87条评论",
+    "tags": "普通住宅 大平层品牌地产",
+    "roomType": "3居/4居－82~136平米",
+    "url": "https://chunjiangtianjinglh.fang.com/"
+  },
+  {
+    "title": "保利观塘",
+    "area": "南岸",
+    "address": "[南岸]渝南分流道(美堤雅城车站前行300米)",
+    "price": "价格待定",
+    "comment": "863条评论",
+    "tags": "普通住宅地铁沿线配套商品房",
+    "roomType": "3居－73~82平米",
+    "url": "https://baoliguantang.fang.com/"
+  },
+  {
+    "title": "万科翡翠都会",
+    "area": "渝中",
+    "address": "[渝中]黄花园(巴蜀本部正对面)",
+    "price": "低价280万元/套",
+    "comment": "218条评论",
+    "tags": "普通住宅 大平层品牌地产",
+    "roomType": "3居－111~159平米",
+    "url": "https://feicuiduhuiwk.fang.com/"
+  })
+][
+  ({
+    "title": "金科天宸",
+    "area": "沙坪坝",
+    "address": "[沙坪坝]西永商务中心区(地铁1号线微电园站旁)",
+    "price": "低价28万元/套",
+    "comment": "928条评论",
+    "tags": "商住楼品牌地产低总价",
+    "roomType": "1居/2居/3居－33~62平米",
+    "url": "https://jinketianchen.fang.com/"
+  },
+  {
+    "title": "万科·星光森林",
+    "area": "渝北",
+    "address": "[渝北]照母山星光大道西侧",
+    "price": "价格待定",
+    "comment": "17条评论",
+    "tags": "普通住宅 花园洋房品牌地产",
+    "roomType": "3居/4居－82~110平米",
+    "url": "https://xingguangsenlinwk.fang.com/"
+  },
+  {
+    "title": "万科17英里",
+    "area": "北碚",
+    "address": "[北碚]两江新区五彩滨江公园旁",
+    "price": "低价260万元/套",
+    "comment": "124条评论",
+    "tags": "双拼 大平层低密居所",
+    "roomType": "4居/5居－192~261平米",
+    "url": "https://shiqiyingliwk023.fang.com/"
+  },
+  {
+    "title": "龙湖·九里峰景",
+    "area": "渝北",
+    "address": "[渝北]照母山西金通大道轨道6号线九曲河站旁",
+    "price": "低价20000元/平方米",
+    "comment": "136条评论",
+    "tags": "独栋 联排品牌地产",
+    "roomType": "2居/3居/4居－68~177平米",
+    "url": "https://jiuliqingchuanlh023.fang.com/"
+  },
+  {
+    "title": "千江凌云",
+    "area": "巴南",
+    "address": "[巴南]南滨南梅沁绿洲旁",
+    "price": "均价10000元/平方米",
+    "comment": "340条评论",
+    "tags": "联排 普通住宅品牌地产",
+    "roomType": "3居－83~83平米",
+    "url": "https://qianjianglingyun.fang.com/"
+  },
+  {
+    "title": "华侨城嘉陵江天",
+    "area": "渝北",
+    "address": "[渝北]渝北区金山大道华侨城",
+    "price": "低价330万元/套",
+    "comment": "80条评论",
+    "tags": "普通住宅 花园洋房品牌地产",
+    "roomType": "4居/5居－184~273平米",
+    "url": "https://huaqiaocheng023.fang.com/"
+  },
+  {
+    "title": "恒大轨道时代",
+    "area": "渝北",
+    "address": "[渝北]童家院子站",
+    "price": "均价17000元/平方米",
+    "comment": "50条评论",
+    "tags": "普通住宅 商业不限购",
+    "roomType": "2居/3居/4居/5居－71~177平米",
+    "url": "https://hengdaguidaoshidai.fang.com/"
+  },
+  {
+    "title": "鲁能领秀城",
+    "area": "南岸",
+    "address": "[南岸]天文大道1号(南岸新行政中心后面)",
+    "price": "均价8700元/平方米",
+    "comment": "638条评论",
+    "tags": "联排 普通住宅品牌地产",
+    "roomType": "2居/3居/4居/5居/5居以上－68~273平米",
+    "url": "https://lingxiuchengln.fang.com/"
+  },
+  {
+    "title": "蓝光芙蓉公馆",
+    "area": "渝北",
+    "address": "[渝北]中央公园东区 · 两江小学前行约1公里",
+    "price": "价格待定",
+    "comment": "6条评论",
+    "tags": "商住楼品牌地产低密居所",
+    "roomType": "3居－78~92平米",
+    "url": "https://furonggongguanlg.fang.com/"
+  },
+  {
+    "title": "龙湖·嘉天下",
+    "area": "巴南",
+    "address": "[巴南]轻轨3号线鱼胡路站旁",
+    "price": "低价10999元/平方米",
+    "comment": "19条评论",
+    "tags": "叠拼 花园洋房品牌地产",
+    "roomType": "4居/5居－100~158平米",
+    "url": "https://jiatianxialh023.fang.com/"
+  },
+  {
+    "title": "万科森林公园",
+    "area": "渝北",
+    "address": "[渝北]两江新区·中央公园南",
+    "price": "价格待定",
+    "comment": "145条评论",
+    "tags": "普通住宅 花园洋房品牌地产",
+    "roomType": "暂无资料",
+    "url": "https://senlingongyuanwk023.fang.com/"
+  },
+  {
+    "title": "天誉智慧城",
+    "area": "南岸",
+    "address": "[南岸]朝天门大桥南桥头",
+    "price": "均价14000元/平方米",
+    "comment": "70条评论",
+    "tags": "普通住宅 大平层地铁沿线",
+    "roomType": "3居/4居－75~191平米",
+    "url": "https://zhihuichengty.fang.com/"
+  })
+]
+[{"title":"重庆融创文旅城","area":"沙坪坝","address":"[沙坪坝]西永微电园地铁站片区","price":"均价11200元/平方米","comment":"318条评论","tags":"联排 普通住宅品牌地产","roomType":"1居/2居/3居/4居/5居－82~211平米","url":"https://wandachengcq.fang.com/"},{"title":"万科金开悦府","area":"渝北","address":"[渝北]两江新区金兴大道园博园正门旁","price":"低价160万元/套","comment":"508条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"3居/4居－82~121平米","url":"https://wankejinkaiyuefu.fang.com/"},{"title":"万科重庆天地","area":"渝中","address":"[渝中]瑞天路158号(天地湖旁)","price":"低价210万元/套","comment":"198条评论","tags":"普通住宅品牌地产国际化社区","roomType":"3居/4居－95~113平米","url":"https://chongqingtiandi.fang.com/"},{"title":"万科金域蓝湾","area":"渝北","address":"[渝北]金果大道66号","price":"价格待定","comment":"340条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"3居/4居－94~112平米","url":"https://jinyulanwanxiwangwk023.fang.com/"},{"title":"万科金域华庭","area":"沙坪坝","address":"[沙坪坝]金沙正街国盛大桥旁","price":"均价14000元/平方米","comment":"256条评论","tags":"普通住宅品牌地产现房","roomType":"3居/4居－101~112平米","url":"https://jinyuhuatingwk023.fang.com/"},{"title":"保利堂悦","area":"南岸","address":"[南岸]刘家坪轻轨站旁","price":"均价14500元/平方米","comment":"217条评论","tags":"普通住宅 叠拼品牌地产","roomType":"1居/2居/3居/4居/5居－111~151平米","url":"https://tangyuebl023.fang.com/"},{"title":"华融现代城","area":"江北","address":"[江北]港兴路11号(紧邻港城园区管委会,五里坪校区南侧)","price":"价格待定","comment":"107条评论","tags":"普通住宅小户型经济住宅","roomType":"暂无资料","url":"https://xiandaichenghr023.fang.com/"},{"title":"洺悦城","area":"巴南","address":"[巴南]轻轨3号线鱼胡路站","price":"低价9000元/平方米","comment":"84条评论","tags":"普通住宅品牌地产景观居所","roomType":"3居/4居－111~142平米","url":"https://mingyuecheng.fang.com/"},{"title":"万科御澜道","area":"江北","address":"[江北]新溉路与北滨二路交汇处(鲁能巴蜀中学下行300米)","price":"低价22000元/平方米","comment":"306条评论","tags":"普通住宅品牌地产国际化社区","roomType":"4居－129~155平米","url":"https://yulandaowk.fang.com/"},{"title":"龙湖春江天镜","area":"巴南","address":"[巴南]巴滨路","price":"低价13500元/平方米","comment":"87条评论","tags":"普通住宅 大平层品牌地产","roomType":"3居/4居－82~136平米","url":"https://chunjiangtianjinglh.fang.com/"},{"title":"保利观塘","area":"南岸","address":"[南岸]渝南分流道(美堤雅城车站前行300米)","price":"价格待定","comment":"863条评论","tags":"普通住宅地铁沿线配套商品房","roomType":"3居－73~82平米","url":"https://baoliguantang.fang.com/"},{"title":"万科翡翠都会","area":"渝中","address":"[渝中]黄花园(巴蜀本部正对面)","price":"低价280万元/套","comment":"218条评论","tags":"普通住宅 大平层品牌地产","roomType":"3居－111~159平米","url":"https://feicuiduhuiwk.fang.com/"}][{"title":"金科天宸","area":"沙坪坝","address":"[沙坪坝]西永商务中心区(地铁1号线微电园站旁)","price":"低价28万元/套","comment":"928条评论","tags":"商住楼品牌地产低总价","roomType":"1居/2居/3居－33~62平米","url":"https://jinketianchen.fang.com/"},{"title":"万科·星光森林","area":"渝北","address":"[渝北]照母山星光大道西侧","price":"价格待定","comment":"17条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"3居/4居－82~110平米","url":"https://xingguangsenlinwk.fang.com/"},{"title":"万科17英里","area":"北碚","address":"[北碚]两江新区五彩滨江公园旁","price":"低价260万元/套","comment":"124条评论","tags":"双拼 大平层低密居所","roomType":"4居/5居－192~261平米","url":"https://shiqiyingliwk023.fang.com/"},{"title":"龙湖·九里峰景","area":"渝北","address":"[渝北]照母山西金通大道轨道6号线九曲河站旁","price":"低价20000元/平方米","comment":"136条评论","tags":"独栋 联排品牌地产","roomType":"2居/3居/4居－68~177平米","url":"https://jiuliqingchuanlh023.fang.com/"},{"title":"千江凌云","area":"巴南","address":"[巴南]南滨南梅沁绿洲旁","price":"均价10000元/平方米","comment":"340条评论","tags":"联排 普通住宅品牌地产","roomType":"3居－83~83平米","url":"https://qianjianglingyun.fang.com/"},{"title":"华侨城嘉陵江天","area":"渝北","address":"[渝北]渝北区金山大道华侨城","price":"低价330万元/套","comment":"80条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"4居/5居－184~273平米","url":"https://huaqiaocheng023.fang.com/"},{"title":"恒大轨道时代","area":"渝北","address":"[渝北]童家院子站","price":"均价17000元/平方米","comment":"50条评论","tags":"普通住宅 商业不限购","roomType":"2居/3居/4居/5居－71~177平米","url":"https://hengdaguidaoshidai.fang.com/"},{"title":"鲁能领秀城","area":"南岸","address":"[南岸]天文大道1号(南岸新行政中心后面)","price":"均价8700元/平方米","comment":"638条评论","tags":"联排 普通住宅品牌地产","roomType":"2居/3居/4居/5居/5居以上－68~273平米","url":"https://lingxiuchengln.fang.com/"},{"title":"蓝光芙蓉公馆","area":"渝北","address":"[渝北]中央公园东区 · 两江小学前行约1公里","price":"价格待定","comment":"6条评论","tags":"商住楼品牌地产低密居所","roomType":"3居－78~92平米","url":"https://furonggongguanlg.fang.com/"},{"title":"龙湖·嘉天下","area":"巴南","address":"[巴南]轻轨3号线鱼胡路站旁","price":"低价10999元/平方米","comment":"19条评论","tags":"叠拼 花园洋房品牌地产","roomType":"4居/5居－100~158平米","url":"https://jiatianxialh023.fang.com/"},{"title":"万科森林公园","area":"渝北","address":"[渝北]两江新区·中央公园南","price":"价格待定","comment":"145条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"暂无资料","url":"https://senlingongyuanwk023.fang.com/"},{"title":"天誉智慧城","area":"南岸","address":"[南岸]朝天门大桥南桥头","price":"均价14000元/平方米","comment":"70条评论","tags":"普通住宅 大平层地铁沿线","roomType":"3居/4居－75~191平米","url":"https://zhihuichengty.fang.com/"}][{"title":"恒大御龙天峰","area":"江北","address":"[江北]北滨路中段","price":"均价25000元/平方米","comment":"406条评论","tags":"普通住宅 商住公寓品牌地产","roomType":"3居/4居－89~113平米","url":"https://yulongtianfeng.fang.com/"},{"title":"恒大麓山湖","area":"大渡口","address":"[大渡口]轨道建桥站","price":"价格待定","comment":"167条评论","tags":"普通住宅 叠拼品牌地产","roomType":"3居/4居－85~113平米","url":"https://lushanhuhd.fang.com/"},{"title":"碧桂园保利·云禧","area":"巴南","address":"[巴南]龙洲湾商圈(轻轨3号线鱼胡路站旁)","price":"低价9500元/平方米","comment":"93条评论","tags":"普通住宅 叠拼地铁沿线","roomType":"3居/4居/5居/5居以上－102~188平米","url":"https://yunxibgybl.fang.com/"},{"title":"金地自在城","area":"九龙坡","address":"[九龙坡]华岩新城","price":"低价11700元/平方米","comment":"238条评论","tags":"普通住宅 叠拼品牌地产","roomType":"2居/3居/4居－71~128平米","url":"https://zizaichengjd023.fang.com/"},{"title":"金科金辉美院","area":"北碚","address":"[北碚]两江新区嘉悦大桥北桥头","price":"均价14700元/平方米","comment":"235条评论","tags":"联排 普通住宅品牌地产","roomType":"3居/4居－85~116平米","url":"https://jinhuimeiyuanjk.fang.com/"},{"title":"金融街融景城","area":"江北","address":"[江北]北滨路(紧邻江北嘴cbd)","price":"低价19000元/平方米","comment":"1022条评论","tags":"普通住宅品牌地产地铁沿线","roomType":"4居/5居－128~190平米","url":"https://rongjingchengjrj.fang.com/"},{"title":"恒大御府","area":"渝北","address":"[渝北]照母山·金州大道(轨道重光站)","price":"均价20500元/平方米","comment":"87条评论","tags":"住宅底商 花园洋房品牌地产","roomType":"2居/3居/4居/5居－67~179平米","url":"https://hengdayufu023.fang.com/"},{"title":"金辉·中央銘著","area":"渝北","address":"[渝北]中央公园正南门(甘悦大道旁)","price":"低价13000元/平方米","comment":"177条评论","tags":"普通住宅 叠拼品牌地产","roomType":"1居/3居/4居/5居/5居以上－35~277平米","url":"https://zhongyangmingzhujh.fang.com/"},{"title":"中南·玖宸","area":"北碚","address":"[北碚]轻轨6号线曹家湾站","price":"均价14500元/平方米","comment":"89条评论","tags":"商住楼品牌地产地铁沿线","roomType":"4居－94~121平米","url":"https://zhongnanjiuchen.fang.com/"},{"title":"世茂璀璨天城","area":"渝北","address":"[渝北]金石大道303号( 轻轨10号线三亚湾轻轨站出口200米处)","price":"价格待定","comment":"119条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"3居/4居－66~102平米","url":"https://cuicantianchengsm023.fang.com/"},{"title":"中国摩","area":"渝北","address":"[渝北]空港东路777号(轨道3号线举人坝站旁)","price":"均价14000元/平方米","comment":"169条评论","tags":"普通住宅 商住公寓小户型","roomType":"2居/3居/4居－74~108平米","url":"https://zhongguomo.fang.com/"},{"title":"保利金香槟","area":"九龙坡","address":"[九龙坡]华福大道金建路旁","price":"低价9000元/平方米","comment":"179条评论","tags":"普通住宅地铁沿线教育地产","roomType":"3居－71~94平米","url":"https://jinxiangbinbl023.fang.com/"}][{"title":"恒大未来城","area":"沙坪坝","address":"[沙坪坝]大学城南二路(重庆城市管理学院对面)","price":"低价7600元/平方米","comment":"128条评论","tags":"普通住宅 商住公寓品牌地产","roomType":"1居/2居/3居－46~86平米","url":"https://weilaichenghd023.fang.com/"},{"title":"龙湖舜山府","area":"渝北","address":"[渝北]照母山植物园旁","price":"低价22800元/平方米","comment":"108条评论","tags":"独栋 普通住宅品牌地产","roomType":"3居/5居/5居以上－150~213平米","url":"https://shunshanfulh023.fang.com/"},{"title":"北大资源悦来玖仰","area":"渝北","address":"[渝北]街道悦城三路","price":"低价11400元/平方米","comment":"21条评论","tags":"花园洋房品牌地产低密居所","roomType":"1居/3居/4居－75~130平米","url":"https://yuelaibdzy2.fang.com/"},{"title":"万科翡翠公园","area":"渝北","address":"[渝北]两江新区中央公园西三门","price":"均价19500元/平方米","comment":"85条评论","tags":"大平层品牌地产地铁沿线","roomType":"4居－136~168平米","url":"https://wkfcgy023.fang.com/"},{"title":"华润公园九里","area":"渝北","address":"[渝北]中央公园公园西路与甘悦大道交汇处","price":"低价17500元/平方米","comment":"116条评论","tags":"合院 花园洋房品牌地产","roomType":"3居/4居/5居以上－94~252平米","url":"https://gongyuanjiulihr023.fang.com/"},{"title":"西永9号","area":"沙坪坝","address":"[沙坪坝]西部新城大学城北路28号","price":"均价12000元/平方米","comment":"282条评论","tags":"普通住宅 叠拼地铁沿线","roomType":"2居/3居/4居/5居－68~111平米","url":"https://xiyongjiuhaosl.fang.com/"},{"title":"瀚学融府","area":"渝北","address":"[渝北]龙骏大道899号","price":"低价12000元/平方米","comment":"57条评论","tags":"普通住宅 花园洋房花园洋房","roomType":"1居/3居－24~83平米","url":"https://hanxuerongfu.fang.com/"},{"title":"荣安林语春风","area":"九龙坡","address":"[九龙坡]华岩新城轻轨5号线跳蹬站","price":"低价8622元/平方米","comment":"66条评论","tags":"普通住宅品牌地产","roomType":"2居/3居/4居－69~110平米","url":"https://linyuchunfengra.fang.com/"},{"title":"江山樾","area":"渝北","address":"[渝北]照母山九曲河地铁站旁","price":"低价18888元/平方米","comment":"393条评论","tags":"别墅低总价地铁沿线","roomType":"3居－66~84平米","url":"https://jiangshanyuexhdy.fang.com/"},{"title":"龙湖两江新宸·森屿","area":"渝北","address":"[渝北]礼嘉礼仁街(礼嘉镇政府旁)","price":"低价18500元/平方米","comment":"427条评论","tags":"别墅品牌地产复合地产","roomType":"3居/4居－73~114平米","url":"https://liangjiangxinchenlh.fang.com/"},{"title":"保亿·湖山鹿鸣","area":"南岸","address":"[南岸]江南新城·怡林路","price":"低价150万元/套","comment":"68条评论","tags":"普通住宅 叠拼品牌地产","roomType":"4居/5居－101~104平米","url":"https://hushanlumingby.fang.com/"},{"title":"中建御湖壹号","area":"九龙坡","address":"[九龙坡]冬山路7号(双山公园旁)","price":"均价11500元/平方米","comment":"224条评论","tags":"联排 普通住宅品牌地产","roomType":"3居/4居/5居－79~315平米","url":"https://yuhuyihaozj.fang.com/"}][{"title":"中建御湖壹号","area":"九龙坡","address":"[九龙坡]冬山路7号(双山公园旁)","price":"均价11500元/平方米","comment":"224条评论","tags":"联排 普通住宅品牌地产","roomType":"3居/4居/5居－79~315平米","url":"https://yuhuyihaozj.fang.com/"},{"title":"国博城","area":"渝北","address":"[渝北]悦来街道悦城路36号(国博中心旁)","price":"均价10000元/平方米","comment":"231条评论","tags":"商住楼品牌地产国际化社区","roomType":"3居/4居/5居/5居以上－153~514平米","url":"https://guobochengrc.fang.com/"},{"title":"富力院士廷","area":"沙坪坝","address":"[沙坪坝]陈家桥地铁站旁","price":"均价13000元/平方米","comment":"111条评论","tags":"普通住宅地铁沿线配套商品房","roomType":"2居/3居/4居－62~99平米","url":"https://yuanshiting.fang.com/"},{"title":"龙湖椿山","area":"北碚","address":"[北碚]轻轨站6号线曹家湾轻轨站附近","price":"低价15000元/平方米","comment":"94条评论","tags":"联排 普通住宅品牌地产","roomType":"3居/4居/5居以上－96~301平米","url":"https://longhuchunshan.fang.com/"},{"title":"欧麓花园城","area":"南岸","address":"[南岸]茶园新城","price":"低价12000元/平方米","comment":"234条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"3居/4居－72~150平米","url":"https://olhycjqjrc.fang.com/"},{"title":"龙湖·景粼玖序","area":"渝北","address":"[渝北]两江国际商务中心(可直接导航龙湖景粼玖序营销中心)","price":"低价19000元/平方米","comment":"108条评论","tags":"普通住宅品牌地产公园地产","roomType":"3居/4居－100~162平米","url":"https://jinglinjiuxulh.fang.com/"},{"title":"融信·澜湾","area":"巴南","address":"[巴南]龙洲湾商圈大山村轻轨站旁","price":"低价11000元/平方米","comment":"134条评论","tags":"叠拼 花园洋房现房","roomType":"3居/4居－99~150平米","url":"https://rongxinlanwan.fang.com/"},{"title":"龙湖昱湖壹号","area":"渝北","address":"[渝北]礼贤路","price":"低价23000元/平方米","comment":"158条评论","tags":"联排 普通住宅品牌地产","roomType":"3居/4居－100~180平米","url":"https://yhyhlh.fang.com/"},{"title":"万科彩云湖","area":"九龙坡","address":"[九龙坡]彩虹路中段","price":"均价22000元/平方米","comment":"140条评论","tags":"普通住宅塔楼视频看房","roomType":"3居/4居－78~104平米","url":"https://caiyunhuwk.fang.com/"},{"title":"万科四季花城","area":"北碚","address":"[北碚]水土悦复大道6号线刘家院子旁","price":"价格待定","comment":"17条评论","tags":"普通住宅品牌地产小户型","roomType":"2居/3居－66~90平米","url":"https://sijihuachengwk023.fang.com/"},{"title":"金科九曲河","area":"渝北","address":"[渝北]金海湾公园旁","price":"低价560万元/套","comment":"83条评论","tags":"别墅品牌地产配套商品房","roomType":"4居/5居－170~400平米","url":"https://jiuqiuhejk.fang.com/"},{"title":"碧桂园渝南首府","area":"巴南","address":"[巴南]花溪街道渝南大道112号(轨道3号线岔路口站旁)","price":"价格待定","comment":"63条评论","tags":"普通住宅品牌地产豪华居住区","roomType":"2居/3居－79~134平米","url":"https://yunanshoufubgy.fang.com/"}][{"title":"金科·集美嘉悦","area":"北碚","address":"[北碚]两江新区蔡家岗立交旁","price":"均价15000元/平方米","comment":"125条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"3居/4居－75~123平米","url":"https://jimeijiayuejk.fang.com/"},{"title":"中建滨江星城","area":"巴南","address":"[巴南]龙洲湾巴南立交(走马梁公交车站旁)","price":"低价93万元/套","comment":"93条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"3居/4居－87~119平米","url":"https://binjiangxinchengzj.fang.com/"},{"title":"鲁能泰山7号","area":"渝北","address":"[渝北]兰桂大道秋成大道交接处(鲁能泰山俱乐部)","price":"均价20000元/平方米","comment":"198条评论","tags":"普通住宅 市场类商铺品牌地产","roomType":"3居/4居－175~196平米","url":"https://taishanqihaoln.fang.com/"},{"title":"公园大道","area":"渝北","address":"[渝北]中央公园公园东路(重庆中央公园旁)","price":"低价450元/平方米","comment":"666条评论","tags":"普通住宅 标准写字楼经济住宅","roomType":"2居/3居/4居/5居－93~260平米","url":"https://gongyuandadao023.fang.com/"},{"title":"财信北岸江山","area":"江北","address":"[江北]观音桥北滨一路456号(鸿恩寺公园旁)","price":"低价16000元/平方米","comment":"834条评论","tags":"普通住宅品牌地产国际化社区","roomType":"1居/2居－50~112平米","url":"https://beianjiangshangx.fang.com/"},{"title":"招商·雍江府","area":"巴南","address":"[巴南]马桑溪大桥旁","price":"低价113万元/套","comment":"44条评论","tags":"普通住宅品牌地产低密居所","roomType":"2居/3居/4居－77~127平米","url":"https://yongjiangfuzs.fang.com/"},{"title":"融创春晖十里","area":"大渡口","address":"[大渡口]春晖路南","price":"价格待定","comment":"469条评论","tags":"普通住宅 住宅底商地铁沿线","roomType":"暂无资料","url":"https://diaoyutairk.fang.com/"},{"title":"万科金域学府","area":"南岸","address":"[南岸]二塘路(交通大学旁)","price":"价格待定","comment":"861条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"3居－61~103平米","url":"https://jinyuxuefuwk.fang.com/"},{"title":"珠江城","area":"巴南","address":"[巴南]巴滨路(阳春湿地公园旁)","price":"低价10000元/平方米","comment":"410条评论","tags":"普通住宅 花园洋房低总价","roomType":"暂无资料","url":"https://zhujiangcheng023.fang.com/"},{"title":"中冶仁和西里","area":"九龙坡","address":"[九龙坡]新城轻轨5号线中梁山站旁","price":"均价11000元/平方米","comment":"45条评论","tags":"普通住宅品牌地产地铁沿线","roomType":"3居/4居－73~98平米","url":"https://zhongyerenhexili.fang.com/"},{"title":"渝高云锦台","area":"九龙坡","address":"[九龙坡]九龙坡区二郎科技大道(彩云湖公园旁)","price":"价格待定","comment":"11条评论","tags":"普通住宅公园地产","roomType":"暂无资料","url":"https://yugaoyunjintai.fang.com/"},{"title":"协信城立方","area":"沙坪坝","address":"[沙坪坝]大学城东路9号(重庆科技学院前100米)","price":"低价21万元/套","comment":"200条评论","tags":"普通住宅品牌地产低总价","roomType":"1居/2居/3居－26~189平米","url":"https://chenglifangxx.fang.com/"}][{"title":"铂悦·澜庭","area":"南岸","address":"[南岸]南滨路北段(大佛寺大桥南桥头下)","price":"价格待定","comment":"146条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"2居/3居/4居－76~131平米","url":"https://boyuelanting023.fang.com/"},{"title":"金科中建集美阳光","area":"九龙坡","address":"[九龙坡]华岩国际新城(轻轨5号线旁)","price":"价格待定","comment":"108条评论","tags":"花园洋房品牌地产宜居生态地产","roomType":"暂无资料","url":"https://jimeiyangguangjk.fang.com/"},{"title":"重庆映月台","area":"渝北","address":"[渝北]两江新区水土高新产业园复兴小学旁","price":"均价13000元/平方米","comment":"23条评论","tags":"花园洋房板楼待售","roomType":"4居－101~122平米","url":"https://yingyuetaihjtf.fang.com/"},{"title":"两江曲院风荷","area":"北碚","address":"[北碚]水土竹溪河旁","price":"低价570万元/套","comment":"40条评论","tags":"合院 普通住宅品牌地产","roomType":"暂无资料","url":"https://quyuanfenghelj.fang.com/"},{"title":"融创碧桂园望江府","area":"渝北","address":"[渝北]悦来生态城(6号线高义口轻轨站附近)","price":"均价14500元/平方米","comment":"159条评论","tags":"别墅品牌地产国际化社区","roomType":"4居－153~174平米","url":"https://wangjiangfubgy.fang.com/"},{"title":"长嘉汇两江峯","area":"南岸","address":"[南岸]重庆 两江汇 南滨路(法国水师兵营旁)","price":"低价37000元/平方米","comment":"372条评论","tags":"普通住宅 购物中心江景地产","roomType":"1居/3居/4居－40~120平米","url":"https://changjiahui.fang.com/"},{"title":"龙湖·長滩原麓","area":"渝北","address":"[渝北]两江新区·龙兴","price":"均价14000元/平方米","comment":"115条评论","tags":"别墅低密居所特色别墅","roomType":"3居/4居/5居－96~181平米","url":"https://changtanyuanlulh.fang.com/"},{"title":"恒大世纪城","area":"渝北","address":"[渝北]金州大道","price":"价格待定","comment":"348条评论","tags":"普通住宅山景地产","roomType":"暂无资料","url":"https://hengdashijicheng.fang.com/"},{"title":"佳兆业滨江新城","area":"大渡口","address":"[大渡口]大滨路(原重钢五六厂)","price":"价格待定","comment":"450条评论","tags":"普通住宅 花园洋房小户型","roomType":"3居/4居－77~128平米","url":"https://binjiangxinchengjzy.fang.com/"},{"title":"和记黄埔地产御峰","area":"南岸","address":"[南岸]南岸区烟雨路江南体育馆旁","price":"低价16000元/平方米","comment":"348条评论","tags":"普通住宅 叠拼品牌地产","roomType":"2居/3居－64~150平米","url":"https://yufenghjhp.fang.com/"},{"title":"北京城建龙樾生态城","area":"渝北","address":"[渝北]重庆r26;悦来生态城(距高义口轻轨站前行100米)","price":"低价207万元/套","comment":"74条评论","tags":"普通住宅 叠拼品牌地产","roomType":"4居－145~161平米","url":"https://longyueshengtaichengbjcj.fang.com/"},{"title":"绿城两江御园","area":"渝北","address":"[渝北]龙盛新区两江影视国际城(国际城大桥西侧)","price":"低价13000元/平方米","comment":"81条评论","tags":"普通住宅 花园洋房山景地产","roomType":"2居/3居/4居－67~176平米","url":"https://liangjiangyuyuan.fang.com/"}][{"title":"光华安纳溪湖","area":"南岸","address":"[南岸]茶园新区米兰路中段(茶花小镇旁)","price":"低价12000元/平方米","comment":"271条评论","tags":"联排 普通住宅品牌地产","roomType":"2居/3居/4居－72~279平米","url":"https://annaxihugh.fang.com/"},{"title":"中建·瑾和城","area":"沙坪坝","address":"[沙坪坝]西尊路东段","price":"低价15000元/平方米","comment":"91条评论","tags":"住宅底商 花园洋房地铁沿线","roomType":"3居/4居－78~111平米","url":"https://jinhechengzj.fang.com/"},{"title":"华宇旭辉·御璟湖山","area":"渝北","address":"[渝北]礼贤路","price":"均价21000元/平方米","comment":"127条评论","tags":"普通住宅 叠拼品牌地产","roomType":"3居/4居/5居－74~143平米","url":"https://hyxhyjhs.fang.com/"},{"title":"首创·天阅嘉陵","area":"沙坪坝","address":"[沙坪坝]中国·重庆·时代湾区","price":"均价11000元/平方米","comment":"134条评论","tags":"花园洋房 大平层品牌地产","roomType":"3居－108~157平米","url":"https://tianyuejialingsc.fang.com/"},{"title":"远洋朗基·枫桦四季","area":"沙坪坝","address":"[沙坪坝]中路北段","price":"均价10000元/平方米","comment":"113条评论","tags":"普通住宅品牌地产低密居所","roomType":"3居/4居－78~115平米","url":"https://fenghuasijiyylj.fang.com/"},{"title":"金沙玖悦","area":"沙坪坝","address":"[沙坪坝]三峡广场旁","price":"均价15000元/平方米","comment":"74条评论","tags":"普通住宅品牌地产低总价","roomType":"2居/3居－58~75平米","url":"https://jinshajiuyue.fang.com/"},{"title":"美的金科郡","area":"沙坪坝","address":"[沙坪坝]西永西双大道虎溪河旁","price":"低价14000元/平方米","comment":"85条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"3居/4居－70~115平米","url":"https://meidijinkejun.fang.com/"},{"title":"龙湖·西宸原著","area":"沙坪坝","address":"[沙坪坝]沙坪坝西部新城科技学院东侧","price":"低价300万元/套","comment":"147条评论","tags":"别墅品牌地产特色别墅","roomType":"3居/4居/5居－86~323平米","url":"https://xichenyuanzhulh023.fang.com/"},{"title":"华商悦江府","area":"渝北","address":"[渝北]悦来·国际博览中心北侧","price":"均价18000元/平方米","comment":"95条评论","tags":"合院 普通住宅低密居所","roomType":"3居/4居－79~112平米","url":"https://yuejianghuhs.fang.com/"},{"title":"万科金色悦城五期","area":"沙坪坝","address":"[沙坪坝]凤鸣山304号","price":"低价8600元/平方米","comment":"371条评论","tags":"商住楼品牌地产低总价","roomType":"暂无资料","url":"https://jinseyuechengwk023.fang.com/"},{"title":"绿地城","area":"大渡口","address":"[大渡口]钓鱼嘴半岛(白居寺公园旁)","price":"均价14000元/平方米","comment":"674条评论","tags":"普通住宅 花园洋房品牌地产","roomType":"5居以上－158~158平米","url":"https://ludicheng023.fang.com/"},{"title":"恒大新城","area":"巴南","address":"[巴南]渝南大道1113号","price":"价格待定","comment":"120条评论","tags":"普通住宅品牌地产低密居所","roomType":"2居/3居－81~96平米","url":"https://hengdaxincheng023.fang.com/"}]
